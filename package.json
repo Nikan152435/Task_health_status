@@ -1,0 +1,19 @@
+{
+  "name": "task_health_status",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/healthStatus.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+    "devDependencies": {
+    "@babel/cli": "^7.0.0",
+    "@babel/core": "^7.0.0",
+    "@babel/preset-env": "^7.0.0",
+    "core-js": "^3.22.0",
+    "jest": "^26.0.0"
+  }
+}
